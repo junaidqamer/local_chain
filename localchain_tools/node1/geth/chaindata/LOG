@@ -1,0 +1,32 @@
+=============== Nov 21, 2020 (EST) ===============
+02:49:32.041027 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:49:32.077899 db@open opening
+02:49:32.082885 version@stat F·[] S·0B[] Sc·[]
+02:49:32.090864 db@janitor F·2 G·0
+02:49:32.090864 db@open done T·11.9662ms
+02:49:32.114803 db@close closing
+02:49:32.114803 db@close done T·0s
+=============== Nov 21, 2020 (EST) ===============
+02:53:11.903561 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:53:11.904557 version@stat F·[] S·0B[] Sc·[]
+02:53:11.904557 db@open opening
+02:53:11.904557 journal@recovery F·1
+02:53:12.320723 journal@recovery recovering @1
+02:53:12.326708 memdb@flush created L0@2 N·10 S·704B "Hَ..\xd0uR,v3":"r\x00\x00..\xd0uR,v5"
+02:53:12.339675 version@stat F·[1] S·704B[704B] Sc·[0.25]
+02:53:12.349322 db@janitor F·3 G·0
+02:53:12.349322 db@open done T·444.7648ms
+02:55:13.662530 db@close closing
+02:55:13.662530 db@close done T·0s
+=============== Nov 21, 2020 (EST) ===============
+02:56:32.514961 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:56:32.515957 version@stat F·[1] S·704B[704B] Sc·[0.25]
+02:56:32.515957 db@open opening
+02:56:32.516984 journal@recovery F·1
+02:56:32.526955 journal@recovery recovering @3
+02:56:32.531917 memdb@flush created L0@5 N·12 S·905B "Dat..ion,v12":"r\x00\x00..\x98\xdf\xf8,v18"
+02:56:32.544878 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+02:56:32.552858 db@janitor F·4 G·0
+02:56:32.552858 db@open done T·36.9009ms
+03:13:33.143439 db@close closing
+03:13:33.144436 db@close done T·997.4µs
